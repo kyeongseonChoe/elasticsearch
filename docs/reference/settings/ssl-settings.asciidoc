@@ -143,8 +143,6 @@ include::{es-repo-dir}/settings/common-defs.asciidoc[tag=ssl-keystore-secure-pas
 (<<static-cluster-setting,Static>>)
 include::{es-repo-dir}/settings/common-defs.asciidoc[tag=ssl-keystore-key-password]
 
-+{ssl-prefix}.ssl.keystore.secure_key_password+::
-(<<secure-settings,Secure>>)
 include::{es-repo-dir}/settings/common-defs.asciidoc[tag=ssl-keystore-secure-key-password]
 
 +{ssl-prefix}.ssl.truststore.path+::
